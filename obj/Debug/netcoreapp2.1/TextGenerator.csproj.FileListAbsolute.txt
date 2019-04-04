@@ -1,0 +1,11 @@
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.csprojAssemblyReference.cache
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.csproj.CoreCompileInputs.cache
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.AssemblyInfoInputs.cache
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.AssemblyInfo.cs
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp2.1\TextGenerator.deps.json
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp2.1\TextGenerator.runtimeconfig.json
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp2.1\TextGenerator.runtimeconfig.dev.json
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp2.1\TextGenerator.dll
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\bin\Debug\netcoreapp2.1\TextGenerator.pdb
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.dll
+C:\Users\awessels\source\repos\TextGenerator\TextGenerator\obj\Debug\netcoreapp2.1\TextGenerator.pdb
